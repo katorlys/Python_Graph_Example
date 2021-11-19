@@ -1,4 +1,13 @@
-# NAME
-[![License](https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.html) ![Pull Requests](https://img.shields.io/github/issues-pr-closed/katorlys/NAME?style=for-the-badge) ![Issues](https://img.shields.io/github/issues-closed/katorlys/NAME?style=for-the-badge)
+# Python_Graph_Example
+[![License](https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.html) ![Pull Requests](https://img.shields.io/github/issues-pr-closed/katorlys/Python_Graph_Example?style=for-the-badge) ![Issues](https://img.shields.io/github/issues-closed/katorlys/Python_Graph_Example?style=for-the-badge)
 
 ## Introduction
+Examples including a simplest graph, a scatter graph and a fitting graph. Generated using Python, the examples show how Python works with graphs.<br>
+Files in the `output` folder shows a variety of graphs generated using Python.<br>
+
+## Package Installing
+```
+pip install numpy
+pip install matplotlib
+pip install scipy
+```
